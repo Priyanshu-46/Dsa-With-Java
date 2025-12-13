@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1844-replace-all-digits-with-characters) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2000-reverse-prefix-of-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
 ## String Matching
 |  |
