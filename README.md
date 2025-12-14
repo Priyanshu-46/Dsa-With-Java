@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1844-replace-all-digits-with-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
