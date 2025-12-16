@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1844-replace-all-digits-with-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1903-largest-odd-number-in-string) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2000-reverse-prefix-of-word) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1903-largest-odd-number-in-string) |
 | [3280-convert-date-to-binary](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3280-convert-date-to-binary) |
 ## Stack
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
