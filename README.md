@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2000-reverse-prefix-of-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
