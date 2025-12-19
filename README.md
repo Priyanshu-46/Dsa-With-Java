@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2942-find-words-containing-character) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3110-score-of-a-string) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String Matching
 |  |
 | ------- |
