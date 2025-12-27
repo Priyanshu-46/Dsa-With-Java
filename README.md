@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3110-score-of-a-string) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3280-convert-date-to-binary](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3280-convert-date-to-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1903-largest-odd-number-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 <!---LeetCode Topics End-->
