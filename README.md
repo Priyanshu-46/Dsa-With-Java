@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2710-remove-trailing-zeros-from-a-string) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
 | [2716-minimize-string-length](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2351-first-letter-to-appear-twice) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
