@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3110-score-of-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3280-convert-date-to-binary](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3280-convert-date-to-binary) |
+| [3340-check-balanced-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
