@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1539-kth-missing-positive-number](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
