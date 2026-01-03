@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2540-minimum-common-value) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2540-minimum-common-value) |
 | [2716-minimize-string-length](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2716-minimize-string-length) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String Matching
