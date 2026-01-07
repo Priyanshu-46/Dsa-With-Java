@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
