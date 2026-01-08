@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1528-shuffle-string) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1539-kth-missing-positive-number) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -168,10 +171,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Prefix Sum
 |  |
