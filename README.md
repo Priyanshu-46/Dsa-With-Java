@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1528-shuffle-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1539-kth-missing-positive-number) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2089-find-target-indices-after-sorting-array) |
