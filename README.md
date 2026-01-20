@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1844-replace-all-digits-with-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2351-first-letter-to-appear-twice) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1652-defuse-the-bomb) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Heap (Priority Queue)
 |  |
