@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2942-find-words-containing-character) |
 | [3206-alternating-groups-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3206-alternating-groups-i) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3668-restore-finishing-order](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
+| [3668-restore-finishing-order](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/3668-restore-finishing-order) |
 ## String Matching
 |  |
 | ------- |
