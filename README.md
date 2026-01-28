@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1920-build-array-from-permutation](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1920-build-array-from-permutation](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/2744-find-maximum-number-of-string-pairs) |
