@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0344-reverse-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0347-top-k-frequent-elements) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/0219-contains-duplicate-ii) |
 | [1652-defuse-the-bomb](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1652-defuse-the-bomb) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Priyanshu-46/Dsa-With-Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
